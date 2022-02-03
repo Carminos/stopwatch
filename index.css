@@ -1,0 +1,29 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    padding: 0px;
+    margin: 0px;
+    background-color: springgreen;
+}
+.stopwatch h1{
+    display: flex;
+    justify-content: center;
+    font: black;
+    font-size: 40px;
+    font-weight: lighter;
+    margin-top: 80px;
+}
+button{
+    background-color: springgreen;
+    border-radius: 30px;
+    width: 200px;
+    border: 2px solid white; 
+    padding: 20px; 
+    font-size: 25px;   
+    cursor: pointer;
+
+}
+button:hover{
+    background-color: white;
+    cursor: pointer;
+}
+
